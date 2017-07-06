@@ -32,7 +32,7 @@ public static void main(String[] args)
 			server.close();
 			
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
+			System.out.print("Fehler: ");
 			e.printStackTrace();
 		}
 }

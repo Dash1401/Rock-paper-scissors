@@ -9,5 +9,7 @@ public class Client
 		PrintWriter writer = new PrintWriter(out);
 		
 		writer.write(Auswahl);
+		
+		
 	}
 }
